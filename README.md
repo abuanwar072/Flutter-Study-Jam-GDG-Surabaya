@@ -1,16 +1,10 @@
-# study_jam_shop
+In this workshop, I’ll show you the real power of Flutter and how easily you, as a beginner, can create apps for both Android and iOS.  
 
-A new Flutter project.
+We’ll build an e-commerce app from scratch and also cover how designers share UI designs using tools like Figma. You’ll learn how to understand those designs and turn them into a perfect Flutter UI.  
 
-## Getting Started
+There are three branches for the project:  
+- **Starting** – for the basic project setup.  
+- **Onboard** – which has the code for the onboarding screen.  
+- **Sign In** – which has the code for the sign-in screen.  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thanks for checking it out, and happy coding!
