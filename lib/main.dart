@@ -15,6 +15,13 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        inputDecorationTheme: InputDecorationTheme(
+          hintStyle: TextStyle(color: Color(0xFFB8B5C3)),
+          filled: true,
+          fillColor: Color(0xFFF8F8F9),
+          enabledBorder: OutlineInputBorder(borderSide: BorderSide.none),
+          focusedBorder: OutlineInputBorder(borderSide: BorderSide.none),
+        ),
       ),
       home: const SigninScreen(),
     );
