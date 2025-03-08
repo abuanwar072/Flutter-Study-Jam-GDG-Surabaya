@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:study_jam_shop/auth/signin_screen.dart';
 import 'package:study_jam_shop/screens/onboard_screen.dart';
 
 void main() {
@@ -15,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const OnboardScreen(),
+      home: const SigninScreen(),
     );
   }
 }
